@@ -1,0 +1,4 @@
+cred*.json
+node_modules/
+.env
+token.json
